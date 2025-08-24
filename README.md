@@ -9,7 +9,7 @@ dT/dt = α * d²T/dx²
 
 Where:
 - \(T(x,t)): Temperature distribution
-- \(\alpha = \frac{k}{\rho c_p}\): Thermal diffusivity
+- \(α = k/rho*c_p\): Thermal diffusivity
 
 ---
 ## 📂 Repository Structure

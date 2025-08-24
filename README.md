@@ -16,11 +16,17 @@ Where:
 ## 📂 Repository Structure
 
 1D-Heat-Conduction/
+
 ├── README.md # Project overview
+
 ├── docs/ # Documentation
+
 ├── src/ # Source code
+
 ├── examples/ # Simulation cases
+
 ├── tests/ # Unit tests
+
 └── notebooks/ # Jupyter notebooks
 
 ---
